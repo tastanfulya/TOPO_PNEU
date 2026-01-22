@@ -2,7 +2,7 @@
 
 # TDA-for-Medical-Image-Analysis
 
-This repository contains the codes to implement cubical persistence algorithm in TDA to extract topological features from chest X-ray images to detect pneumonia. 
+This repository contains the codes to implement cubical persistence algorithm in TDA to extract topological features from chest X-ray images to detect pneumonia. Also included some analysis for breast ultrasound and fundus camera images for possible future research projects.
 
 Dataset resource: PneumoniaMNIST from MedMNIST (https://medmnist.com)
 
